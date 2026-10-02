@@ -1,0 +1,18 @@
+# Ambiente Virtual
+venv/
+.venv/
+
+# Arquivos compilados do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de backup pesados ou temporarios (opcional)
+Codes/backup/*.zip
+
+# Arquivos de sistema / IDE
+.DS_Store
+.vscode/
+.idea/
+tasks.py
